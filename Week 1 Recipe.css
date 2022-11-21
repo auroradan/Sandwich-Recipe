@@ -1,0 +1,26 @@
+h1{
+  text-align:center;
+  font-size:300%;
+  color:red;
+}
+h2{
+  color:blue;
+}
+.ingredient{
+  color:green;
+}
+#makeSandwich{
+  float:right;
+}
+#stackSandwich{
+  float:right;
+}
+table{
+  text-align:center;
+}
+.colLeft{
+  color:green;
+}
+.colRight{
+  color:red;
+}
